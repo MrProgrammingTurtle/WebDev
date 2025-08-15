@@ -1,0 +1,13 @@
+{
+  "name": "gragolf-webdevmockup-server",
+  "version": "1.0.0",
+  "description": "Backend server for Gragolf WebDevMockup static site with security best practices.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "helmet": "^7.0.0"
+  }
+}
